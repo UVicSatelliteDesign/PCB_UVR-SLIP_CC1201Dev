@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=ZMatch Member=NetC25_2
+Change Component Description : Designator=J1 Old Description=SFM - Samtec 1.27mm Tiger Eye™ New Description=SFM - Samtec 1.27mm Tiger Eye™ | High-Reliability Surface Mount Dual Row Socket
+Change Class Name : Old Net Name=ZMatch New Net Name=50R
+Added Member To Class: ClassName=50R Member=Wire GND
+Added Member To Class: ClassName=50R Member=Wire NetC20_1
+Added Member To Class: ClassName=50R Member=Wire NetJ4_1
+Added Member To Class: ClassName=50R Member=Wire TRX_SW
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
