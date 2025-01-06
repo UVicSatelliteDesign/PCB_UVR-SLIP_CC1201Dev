@@ -1,0 +1,251 @@
+*************************************************************
+FileName = CC1201EvalBoard.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : CC1201EvalBoard_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : CC1201EvalBoard_Copper_Signal_1.gbr
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Layer 3
+      File : CC1201EvalBoard_Copper_Signal_2.gbr
+
+    Adding Layer      : Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : CC1201EvalBoard_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : CC1201EvalBoard_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Board Layer Stack Bottom Overlay
+      File : CC1201EvalBoard_Legend_Bot.gbr
+
+    Adding Layer      : Board Layer Stack Bottom Overlay
+
+
+Used DCodes :
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : CC1201EvalBoard_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Board Layer Stack Bottom Solder
+      File : CC1201EvalBoard_Soldermask_Bot.gbr
+
+    Adding Layer      : Board Layer Stack Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D62
+    D63
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : CC1201EvalBoard_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D28
+    D29
+    D30
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : CC1201EvalBoard_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : CC1201EvalBoard_Profile.gbr
+
+
+Used DCodes :
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : CC1201EvalBoard_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : CC1201EvalBoard_PTH_Drill.gbr
+
+
+Used DCodes :
+    D66
+    D67
+    D68
+*************************************************************
+
+*************************************************************
+Generating : Blind or buried via drill file for drill pairs
+      File : CC1201EvalBoard_Plated_Drill_2_3.gbr
+
+
+Used DCodes :
+*************************************************************
+

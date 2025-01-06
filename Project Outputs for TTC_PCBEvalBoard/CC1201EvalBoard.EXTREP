@@ -1,0 +1,23 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: CC1201EvalBoard.GBR   1/6/2025  12:03:47 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Layer                               
+.gbr                Layer 2                                 
+.gbr                Layer 3                                 
+.gbr                Bottom Layer                            
+.gbr                Top Overlay                             
+.gbr                Board Layer Stack Bottom Overlay        
+.gbr                Top Solder                              
+.gbr                Board Layer Stack Bottom Solder         
+.gbr                Top Paste                               
+.gbr                Bottom Paste                            
+.gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
+.gbr                Plated through-hole drill file          
+.gbr                Blind or buried via drill file for drill pairs
+------------------------------------------------------------------------------------------
